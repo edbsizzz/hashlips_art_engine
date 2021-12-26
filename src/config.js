@@ -24,7 +24,7 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 5,
+    growEditionSizeTo: 5000,
     layersOrder: [
       { name: "Background" },
       { name: "Eyeball" },
@@ -92,7 +92,7 @@ const preview = {
 };
 
 const preview_gif = {
-  numberOfImages: 5,
+  numberOfImages: 1000,
   order: "ASC", // ASC, DESC, MIXED
   repeat: 0,
   quality: 100,
