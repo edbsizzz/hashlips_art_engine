@@ -33,7 +33,6 @@ const layerConfigurations = [
       { name: "mouth" },
     ],
   },
-];
   {
     growEditionSizeTo: 9999,
     layersOrder: [
