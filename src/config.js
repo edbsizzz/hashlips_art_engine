@@ -41,7 +41,7 @@ const layerConfigurations = [
       { name: "wFeather" },
       { name: "hat" },
       { name: "wear" },
-      { name; "arm",
+      { name: "arm",
       { name: "mouth" },
     ],
   },
